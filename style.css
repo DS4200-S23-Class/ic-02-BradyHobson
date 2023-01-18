@@ -1,0 +1,19 @@
+body {
+	font-family: Arial;
+}
+
+.centered {
+	text-align: center;
+}
+
+.container {
+	border: 4px black;
+}
+
+#p1 {
+	color: darkgreen;
+}
+
+rect {
+	fill: red;
+}
